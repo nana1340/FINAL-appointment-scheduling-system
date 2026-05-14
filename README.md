@@ -158,8 +158,7 @@ project381/
 │
 ├── login.php
 ├── logout.php
-├── register.php
-└── README.md
+└── register.php
 ```
 
 ## Video Walkthrough Guide
