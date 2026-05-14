@@ -179,8 +179,8 @@ In the video walkthrough, demonstrate:
 
 ## Project Authors
 
-Student 1: Layan Abdullah Aljuhani  
-ID: 441500247
-
-Student 2: Layan Dhaifallah Aljohani  
+Student 1: Layan Dhaifallah Aljohani  
 ID: 441500318
+
+Student 2: Layan Abdullah Aljuhani 
+ID: 441500247
