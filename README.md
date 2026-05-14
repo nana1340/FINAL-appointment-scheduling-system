@@ -182,5 +182,5 @@ In the video walkthrough, demonstrate:
 Student 1: Layan Dhaifallah Aljohani  
 ID: 441500318
 
-Student 2: Layan Abdullah Aljuhani 
+Student 2: Layan Abdullah Aljuhani        
 ID: 441500247
