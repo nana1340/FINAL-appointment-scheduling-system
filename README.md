@@ -73,25 +73,32 @@ Admins can:
 1. Start Laragon.
 2. Copy the project folder into:
 
+```text
 C:\laragon\www
+```
 
 3. Open phpMyAdmin.
 4. Import the database file:
 
+```text
 database/database.sql
+```
 
 5. Open the project in the browser:
 
+```text
 http://localhost/project381/login.php
-
+```
 
 ## Database
 
 Database name:
 
+```text
 appointment_system
+```
 
-Tables:
+Main tables:
 
 - `users`
 - `time_slots`
@@ -102,18 +109,23 @@ Tables:
 
 Admin account:
 
+```text
 Email: admin@yic.edu.sa
 Password: Password123
+```
 
 Student account:
 
+```text
 Email: student@stu.yic.edu.sa
 Password: Password123
+```
 
 New users can also register from the registration page.
 
 ## File Structure
 
+```text
 project381/
 │
 ├── admin/
@@ -148,7 +160,7 @@ project381/
 ├── logout.php
 ├── register.php
 └── README.md
-
+```
 
 ## Video Walkthrough Guide
 
